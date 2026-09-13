@@ -1,0 +1,4 @@
+speechRecongition 
+numpy
+pyttsx3
+sounddevice 
